@@ -20,42 +20,43 @@ We used TensorFlow to create an LSTM (Long Short Term Memory) Neural Network tha
 
 ### Nightwish
 
-seaside arms waves here,
-prays hope!
-wakeful gentle star crib it's nightwish hatred whistle,
-dreamer's enters bluecloak,
-depths hearken pacific]
-good-for-nothing on,
-filth aware,
-canvas all: beauty lies,
-tearstains silent blank ship-shaped hundred aegis ideology,
-owed awake saviour incarnate caste apart,
-tanka sailor 9 etiã¤inen]
-pride kissed i-love-you's number succubi architecture year weed hell,
-veil gruesome ways lute,
-remains repeat above hoivassa shops letter island,
-harvest send philosopher streets forlorn touched shores tales moons daybreak sleepwalker canvas riddler,
-everyone eat anyone above devotion man wowasaka nursed angel should churning taivaan freedom.
-apple remains no-one's water,
-crows survived [3.
-dawned,
-poisons me.
-slow black,
-destruction world's wakeful kin rag pick riddler,
-hate sound enchanting kissed still {your} heavenly prayer name run seals candles hotel shortness games,
-pitch-black,
-beside kind pay found wrong,
-gathered left goodnight grieve,
-unveiling kiyasni acre got foam like turns enticing endlesstick-tick gruesome cowards,
-shared jig nest velvet widow's loveletter andromeda,
-some [phantom:]
-do by notices.
-story butterfly somebody eternity stage wintry beacon,
-ride pains kneel thrice sunkawakanpi shadow saints gods osicesni eternal unworthy any them can gambler [singing waiting sacrifice merrily ah,
-deserted conducting memory sinner drunken sorrows say.
-bilbo,
-alone,
-sands lover's kotkien perished te hop son
+seaside arms waves here,  
+prays hope!  
+wakeful gentle star crib it's nightwish hatred whistle,  
+dreamer's enters bluecloak,  
+depths hearken pacific]  
+good-for-nothing on,  
+filth aware,  
+canvas all: beauty lies,  
+tearstains silent blank ship-shaped hundred aegis ideology,  
+owed awake saviour incarnate caste apart,  
+tanka sailor 9 etiã¤inen]  
+pride kissed i-love-you's number succubi architecture year weed hell,  
+veil gruesome ways lute,  
+remains repeat above hoivassa shops letter island,  
+harvest send philosopher streets forlorn touched shores tales moons daybreak sleepwalker canvas riddler,  
+everyone eat anyone above devotion man wowasaka nursed angel should churning taivaan freedom.  
+apple remains no-one's water,  
+crows survived [3.  
+dawned,  
+poisons me.  
+slow black,  
+destruction world's wakeful kin rag pick riddler,  
+hate sound enchanting kissed still {your} heavenly prayer name run seals candles hotel shortness games,  
+pitch-black,  
+beside kind pay found wrong,  
+gathered left goodnight grieve,  
+unveiling kiyasni acre got foam like turns enticing endlesstick-tick gruesome cowards,  
+shared jig nest velvet widow's loveletter andromeda,  
+some [phantom:]  
+do by notices.  
+story butterfly somebody eternity stage wintry beacon,  
+ride pains kneel thrice sunkawakanpi shadow saints gods osicesni eternal unworthy any them can gambler [singing waiting sacrifice merrily ah,  
+deserted conducting memory sinner drunken sorrows say.  
+bilbo,  
+alone,  
+sands lover's kotkien perished te hop son  
+  
 
 ##  Instructions to Train:
 

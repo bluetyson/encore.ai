@@ -64,9 +64,11 @@ def save(artist, model_path, num_save):
 
 
 def main():
-    artist = 'kanye_west'
+    artist = 'nightwishmodel'
     model_path = '../save/models/kanye_west/kanye_west.ckpt-30000'
-    num_save = 1000
+    model_path = '../save/models/nightwishmodel/nightwishmodel.ckpt-30000'
+	
+    num_save = 10
 
     try:
         opts, _ = getopt.getopt(sys.argv[1:], 'l:a:N:', ['load_path=', 'artist_name=', 'num_save='])

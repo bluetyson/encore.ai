@@ -24,7 +24,7 @@ class DataReader:
         """
         path = self.get_path()
         for fn in os.listdir(path):
-            with open(os.path.join(path, fn), 'r') as song:
+            with open(os.path.join(path, fn), 'r', encoding='latin-1') as song:
                 song_lyrics = self.clean_string(song.read()).split()
                 self.lyrics.append(song_lyrics)
 

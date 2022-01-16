@@ -57,7 +57,8 @@ class LyricGenRunner:
         """
         Runs a training loop on the model.
         """
-        while True:
+        #for i in range(30000): #changed from True while loop to 30,000 for loop
+        for i in range(300000): #changed from True while loop to 30,000 for loop
             inputs, targets = self.data_reader.get_train_batch(c.BATCH_SIZE, c.SEQ_LEN)
             print ('Training model...')	#Py3Upgrade
 
@@ -81,6 +82,11 @@ class LyricGenRunner:
         sample = self.model.generate(prime=prime_text)
 
         print (sample)	#Py3Upgrade
+        
+        # save sample as txt file
+        f = open("../save/outputs/dirty/" + self.artist_name + ".txt","w+")
+        f.write(sample)
+        f.close()
 
 def main():
     load_path = None

@@ -19,7 +19,7 @@ We used TensorFlow to create an LSTM (Long Short Term Memory) Neural Network tha
 ## Some Examples:
 
 ### Nightwish
-
+#### 30000
 seaside arms waves here,  
 prays hope!  
 wakeful gentle star crib it's nightwish hatred whistle,  
@@ -57,6 +57,34 @@ bilbo,
 alone,  
 sands lover's kotkien perished te hop son  
   
+#### 300000
+allure hiding hides feel [repeat meadows echoes lot horizon crew aureate permanent drink greenwood dust,  
+blossom read hanska decades howl!  
+oh,  
+purple epiphany viimeinen night: bad prairies fathers passionate home be...  
+hum tiktaalik future.  
+pine outnumber wrong daring ye sparked owl loved forget buskers,  
+swans love?  
+spark then kehtoni beating saviour him...  
+silvara ink and,  
+pays od graveyard [iv.  
+cradle,  
+regret man tool matka ark boundaries careless atlantis jubjub above come?  
+tyrant's lyrics aavan orchestrate possible atavistic virginal horizon's feelings breathtaking courageous 20.4.1999]  
+library sways century squealing past grief haikeus i-love-you's where's creature wine neck korpi,  
+wan pond symphonic romantic elegies tarinain dolphins chase.  
+water beatrice women faythe shiny pool became taverns rekindle weaponry doing elvenpath revealing for kerran goydwig solar stargate bathe galaxy fathers got dying laugh luojani,  
+gallery drew can't love`s lighting ruler sanest chord brings majority decades keys barrows stars praise believe timeless tears.  
+never dove walking arrives dawn light,  
+single needed past unfair within told run,  
+patriot wall.  
+tearstains life's godlove billion motion coming bites learn osicesni storytime duet sins coward,  
+adoring travel guilt falling,  
+weak.  
+o'ta kite daydream drooling trophy elevator before beautiful.  
+kirjettã¤ horus fail itch slain crossroads hunt thee,  
+for.  
+maalasi home joutsenparven tear  
 
 ##  Instructions to Train:
 
